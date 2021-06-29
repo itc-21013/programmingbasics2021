@@ -6,8 +6,8 @@
 
 ## Paiza
 
--![eoshito manaberu](file:///home/kondoutakahiro/programmingbasics2021/image/kuronikuru)
--![恋するハッカソン](file:///home/kondoutakahiro/programmingbasics2021/image/hakkason)
+-![eoshito manaberu](./image/kuronikuru)
+-![恋するハッカソン](./image/hakkason)
 
 ##Python3
 
