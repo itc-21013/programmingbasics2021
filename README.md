@@ -2,7 +2,7 @@
 
 ## Rescuetime
 
-![Rescuetime](file:///home/kondoutakahiro/programmingbasics2021/image/rescuetime)
+![Rescuetime](./image/rescuetime)
 
 ## Paiza
 
